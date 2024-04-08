@@ -1,6 +1,6 @@
 # ゲームデザイン実習(2024年度入学生)
 
-- [シラバス](https://docs.google.com/spreadsheets/d/1YP2eJ0aMiAueuQl1UHFAXnia41l0P0wG/edit?usp=sharing&ouid=116923691615503899101)
+- [シラバス](https://drive.google.com/file/d/1hQY_78HdbMagko6ELr7JbcCW2DywJuDe/)
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm24.slack.com)
 - [木曜 講義日程](thu.md)
