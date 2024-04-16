@@ -5,6 +5,7 @@
 - [Slack](https://datgm24.slack.com)
 - [木曜 講義日程](thu.md)
 - [UNITYの準備](https://creator.cluster.mu/2020/03/31/%e3%80%8cunity%e3%80%8d%e3%81%a8%e3%80%8ccluster-creator-kit%e3%80%8d%e3%82%92-%e5%b0%8e%e5%85%a5%e3%81%99%e3%82%8b/)
+- [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)
 
 ## リンク
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
