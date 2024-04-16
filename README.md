@@ -21,3 +21,32 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 1回目(4/18)
+
+### 活動紹介
+- [Brackes Game Jam 2024.1](https://itch.io/jam/brackeys-11/results)にJygain's Doorを投稿。総合6位
+- IMPRESS NextPublishing向けの原稿を入稿。校正待ち
+- Godot用の2Dプラットフォーマープロジェクトを進行中。ノードを並べて処理が作れる仕組みを構築中。これをもとに[技術書典](https://techbookfest.org/)で出版する書籍を執筆予定
+
+### 予定
+- [ガイダンス](https://drive.google.com/file/d/1tvOISbFwll-c7fmJ7qJVIciTp3ZknSEr/)
+- [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
+  - Googleアカウント / Slack / GitHub / 作業用フォルダー
+  - ツールについて
+    - プログラムやアプリの使い方の管理、文章作成者が決まっているようなもの：GitHub
+    - 大きな画像や動画など：Googleドライブ
+    - 意見交換：Slack(3ヶ月で消えるので消えてもよい質疑応答や進捗の共有、ブレストなど。クラス以外には非公開)
+    - 企画書や仕様書、確認事項など、手軽に共有したり編集できて残しておきたい文章：Googleドキュメント、ワークシート、Notion, Trelloなど
+- 講義
+  - [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/1_psbxg6vPk21C3nAcytyVJm8QTYr-G7AV1qAtjcRclg/)
+  - [Unity Learning Material. たのしさの作り方](https://learning.unity3d.jp/2618/)
+  - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品を見てみよう
+  - 参考：[ゲームクリエイターズギルド. Reverse Room](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
+- 演習：ミニゲームを考えてみよう
+  - Googleドキュメントを作成して、0418企画案という名前にする
+  - ドキュメント右上の共有ボタンをクリック
+  - 一般的なアクセスの「制限付き」をクリックして「リンクをしっている全員」に変更
+  - リンクをコピーをクリックして完了
+  - [こちら]()から名前と共有URLを送信
+  - 共有URLをSlackの自分のチャンネルに書き込む
+  - 参考 [ゲームクリエイター甲子園の応募作品一覧. 企画カテゴリ](https://gameparade.creators-guild.com/works?category=2&order=date)
