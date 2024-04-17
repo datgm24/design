@@ -47,6 +47,6 @@
   - ドキュメント右上の共有ボタンをクリック
   - 一般的なアクセスの「制限付き」をクリックして「リンクをしっている全員」に変更
   - リンクをコピーをクリックして完了
-  - [こちら]()から名前と共有URLを送信
-  - 共有URLをSlackの自分のチャンネルに書き込む
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)から名前と共有URLを送信
+  - 共有URLを[Slack](https://datgm24.slack.com)の自分のチャンネルに書き込む
   - 参考 [ゲームクリエイター甲子園の応募作品一覧. 企画カテゴリ](https://gameparade.creators-guild.com/works?category=2&order=date)
