@@ -21,22 +21,26 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+<!--
+- 1週間ゲームジャムや最初の企画
+  - [unity1week online共有会 #15. かくひと: 等身大のゲームづくり](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=955s)
+-->
+
 ## 2回目(4/25)
 
 ### 話題
+- [unity1week online共有会 #15](https://www.youtube.com/live/wmF1z5Epr1g?feature=shared)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
 
 ### 内容
 - 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
-- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
-- [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
-- [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品を見てみよう
-  - 参考：[ゲームクリエイターズギルド. Reverse Room](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
-
+  - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
+  - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
+  - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品を見てみよう
+    - 参考：[ゲームクリエイターズギルド. Reverse Room](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
 
 ### 演習１：グループでアイディアを出し
 - ブレストの前に
-  - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・ブレストの例 / チーム開発について
   - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
   - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - ブレスト
@@ -70,6 +74,8 @@
 - 参考： [nekogeek. カジュアルゲームの最新ゲームを50本遊んで、企画の方向を考えよう](https://nekogeek.jp/play-casual-games-a-lot/)
   - [作例](https://docs.google.com/presentation/d/1pU7q1oWEkPfATbvy5jhatJkDWsByfO3wpBh1KIKShrk/)
 
+### 時間があったら
+- [キー入力の練習](https://docs.google.com/document/d/1olAvmpehNVCLBdf329Ubas7FgygtEqyk5j9nyE-rTEI/edit#heading=h.ykvnuvatyepj)
 
 
 ### 提出
@@ -87,7 +93,7 @@
 - IMPRESS NextPublishing向けの原稿を入稿。校正待ち
 - Godot用の2Dプラットフォーマープロジェクトを進行中。ノードを並べて処理が作れる仕組みを構築中。これをもとに[技術書典](https://techbookfest.org/)で出版する書籍を執筆予定
 
-### 予定
+### 内容
 - [ガイダンス](https://drive.google.com/file/d/1tvOISbFwll-c7fmJ7qJVIciTp3ZknSEr/)
 - [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
   - Googleアカウント / Slack / GitHub / 作業用フォルダー
