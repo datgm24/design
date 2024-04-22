@@ -30,6 +30,7 @@
 
 ### 話題
 - [unity1week online共有会 #15](https://www.youtube.com/live/wmF1z5Epr1g?feature=shared)
+  - 立場が近い人の活動例 [えふぇこ: u1w反省会](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=4486s)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
 
 ### 内容
