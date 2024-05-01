@@ -26,7 +26,7 @@
   - [unity1week online共有会 #15. かくひと: 等身大のゲームづくり](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=955s)
 -->
 
-## 2回目(4/25)
+## 2回目(5/2)
 
 ### 話題
 - [unity1week online共有会 #15](https://www.youtube.com/live/wmF1z5Epr1g?feature=shared)
