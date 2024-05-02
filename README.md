@@ -26,6 +26,17 @@
   - [unity1week online共有会 #15. かくひと: 等身大のゲームづくり](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=955s)
 -->
 
+## 3回目(5/9)
+
+### 予定
+- 前回のGoogleドキュメントと今回のGoogleスライドを以下の手順で共有する
+  - 右上の 共有 をクリック
+  - リンクを知っている全員に変更 をクリック
+  - リンクをコピー をクリックして、完了をクリック
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
+- Google Meetで企画案の共有
+
+
 ## 2回目(5/2)
 
 ### 話題
@@ -78,13 +89,6 @@
 ### 時間があったら
 - [キー入力の練習](https://docs.google.com/document/d/1olAvmpehNVCLBdf329Ubas7FgygtEqyk5j9nyE-rTEI/edit#heading=h.ykvnuvatyepj)
 
-
-### 提出
-- 前回のGoogleドキュメントと今回のGoogleスライドを以下の手順で共有する
-  - 右上の 共有 をクリック
-  - リンクを知っている全員に変更 をクリック
-  - リンクをコピー をクリックして、完了をクリック
-  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
 
 
 ## 1回目(4/18)
