@@ -24,6 +24,8 @@
 <!--
 - 1週間ゲームジャムや最初の企画
   - [unity1week online共有会 #15. かくひと: 等身大のゲームづくり](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=955s)
+
+- 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
 ## 3回目(5/9)
@@ -35,7 +37,7 @@
   - リンクをコピー をクリックして、完了をクリック
   - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
 - Google Meetで企画案の共有
-
+- [ゲームメカニクス　ボードゲーム版](https://docs.google.com/document/d/1xGz1yZG_H4op19PyiOO5Bu4Gt9dHdlRItBZq05MFeYc/)
 
 ## 2回目(5/2)
 
