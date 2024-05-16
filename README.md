@@ -28,17 +28,23 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
-## 4回目(5/16)
+## 5回目(5/23)
 
 ### 予定
-- [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
-  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+- レイアウトと色
+- [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 続き
 - 演習：企画の構想
   - これまで出した案や新しい企画を考えて、手持ちの企画として構想をまとめる
   - [企画構想書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)を開く
   - ファイルメニューから コピーを作成 を選択
   - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
   - 以上でコピーしたドキュメントの各項目を記入していく
+
+## 4回目(5/16)
+
+### 内容
+- [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
+  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
 
 
 ## 3回目(5/9)
