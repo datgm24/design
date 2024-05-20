@@ -29,6 +29,9 @@
 
 ## 5回目(5/23)
 
+### 話題
+- プロトタイプの例 [hempuli. TROVEMOUNT](https://hempuli.itch.io/trovemount?ac=qfCyYFQF-tw)
+
 ### 予定
 - [レイアウト FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
 - [色とUIのデザイン](http://am1.space/dat/design/design4-color.pdf)
