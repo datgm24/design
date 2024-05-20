@@ -24,21 +24,29 @@
 <!--
 - 1週間ゲームジャムや最初の企画
   - [unity1week online共有会 #15. かくひと: 等身大のゲームづくり](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=955s)
-
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
 ## 5回目(5/23)
 
 ### 予定
-- レイアウトと色
-- [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 続き
+- [レイアウト FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
+- [色とUIのデザイン](http://am1.space/dat/design/design4-color.pdf)
+  - [図](http://am1.space/dat/design/design4-color-fig.pdf)
 - 演習：企画の構想
+  - ブレスト企画とボードゲームの振り返り
   - これまで出した案や新しい企画を考えて、手持ちの企画として構想をまとめる
   - [企画構想書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)を開く
   - ファイルメニューから コピーを作成 を選択
   - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
+  - 右上の共有をクリックして、制限付きをクリック＞リンクを知っている全員に変更
+  - リンクをコピー＞完了
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)にURLを貼り付けて共有
   - 以上でコピーしたドキュメントの各項目を記入していく
+    - 基本情報のうち、決まっていることを書く
+    - 企画の狙いを書く
+    - 思いついたところから、残りの項目を書く
+- [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 続き
 
 ## 4回目(5/16)
 
