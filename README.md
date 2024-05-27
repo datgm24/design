@@ -33,6 +33,7 @@
 - [技術書典16に参加](https://techbookfest.org/organization/bgzSCidTdQc0gKCVvM3Ghe)
 
 ### 予定
+- ゲームプログラミングのグループ分けについて
 - [文字のデザイン](http://am1.space/dat/design/design5-font.pdf)
   - [図](http://am1.space/dat/design/design5-font-fig.pdf)
 - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 続き
