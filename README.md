@@ -27,17 +27,10 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
-## 6回目(5/30)
-
-### 話題
-- [技術書典16に参加](https://techbookfest.org/organization/bgzSCidTdQc0gKCVvM3Ghe)
+## 7回目(6/6)
 
 ### 予定
-- ゲームプログラミングのグループ分けについて
-- [文字のデザイン](http://am1.space/dat/design/design5-font.pdf)
-  - [図](http://am1.space/dat/design/design5-font-fig.pdf)
-- [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 続き
-Unityでモックアップ作成-文字の表示-
+- Unityでモックアップ作成-文字の表示続き
   - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
   - [TextMesh Proの使い方](https://am1.jp/tutorials/unity/tmpro/)
   - [2024年用、日本語のフリーフォント699種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
@@ -45,6 +38,22 @@ Unityでモックアップ作成-文字の表示-
 - 前回の企画構想書の振り返り
   - [ロール・トゥ・ザ・SIH屋上](https://docs.google.com/document/d/1zX-4in4wCINdzXhQnVjw0Xv_Q6CPnkCtNxNJdyeKhiY/)
 - 企画構想書向けのモックをUnityで作成
+
+## 6回目(5/30)
+
+### 話題
+- [技術書典16に参加](https://techbookfest.org/organization/bgzSCidTdQc0gKCVvM3Ghe)
+
+### 内容
+- ゲームプログラミングのグループ分けについて
+- [文字のデザイン](http://am1.space/dat/design/design5-font.pdf)
+  - [図](http://am1.space/dat/design/design5-font-fig.pdf)
+- [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 続き
+- Unityでモックアップ作成-文字の表示-
+  - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+  - [TextMesh Proの使い方](https://am1.jp/tutorials/unity/tmpro/)
+  - [2024年用、日本語のフリーフォント699種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
+  - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](https://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
 
 ## 5回目(5/23)
 
