@@ -29,8 +29,9 @@
 
 ## 7回目(6/6)
 
-### 予定
+### 内容
 - Unityでモックアップ作成-文字の表示続き
+  - [フォント探しと追加の手順のメモ](https://github.com/datgm24/design/blob/main/240606_textmesh_pro.md)
   - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
   - [TextMesh Proの使い方](https://am1.jp/tutorials/unity/tmpro/)
   - [2024年用、日本語のフリーフォント707<s>699</s>種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
