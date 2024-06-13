@@ -29,12 +29,10 @@
 
 ## 8回目(6/13)
 
-### 予定
+### 内容
 
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
-- 前回の企画構想書の振り返り
-  - [ロール・トゥ・ザ・SIH屋上](https://docs.google.com/document/d/1zX-4in4wCINdzXhQnVjw0Xv_Q6CPnkCtNxNJdyeKhiY/)
-- 企画構想書向けのモックをUnityで作成
+- アセットストアの利用
 
 ## 7回目(6/6)
 
