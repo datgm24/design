@@ -29,6 +29,13 @@
 
 ## 9回目(6/20)
 
+ゲームデザイン実習の席は、これまでと同じでよい。
+
+- プログラミング班
+  - Unityでよけとるモック作成
+- ゲーム制作班
+  - 選んだゲームエンジンで、作りたいゲームの画面つくり
+
 ### 話題
 - [小山順一朗. ヒット作品のつくり方](https://www.docswell.com/s/gamemakers/5DEL8W-GameMakersScramble2024_ArchivesA5#p1)O
 
