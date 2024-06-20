@@ -27,7 +27,8 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
-## 9回目(6/20)
+
+## 9, 10回目(6/20, 27)
 
 ゲームデザイン実習の席は、これまでと同じ。
 
@@ -39,7 +40,7 @@
 ### 話題
 - [小山順一朗. ヒット作品のつくり方](https://www.docswell.com/s/gamemakers/5DEL8W-GameMakersScramble2024_ArchivesA5#p1)
 
-### 予定
+### 内容
 - 習作ゲーム「よけとる」の企画と仕様
   - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
   - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
