@@ -33,11 +33,6 @@
 
 - プログラミング班
   - Unityでよけとるモック作成
-    - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
-    - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
-    - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
-    - [Coliss. 2024年用、日本語のフリーフォントまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
-    - [TextMesh Pro向け ASCIIコード+JIS第1水準の文字](https://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
 - ゲーム制作班
   - 選んだゲームエンジンで、作りたいゲームの画面つくり
 
@@ -58,6 +53,13 @@
 - 作成したモック画面のスクリーンショットをSlackの自分のチャンネル(#times_自分の名前)に貼り付けて送信する
   - スクショはShift+Winキー+Sキー
 - 読み込むモデルの形式はFBXがあればそれを利用
+- 参考資料
+  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+  - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+  - [Coliss. 2024年用、日本語のフリーフォントまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
+  - [TextMesh Pro向け ASCIIコード+JIS第1水準の文字](https://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
+
 
 ## 8回目(6/13)
 
