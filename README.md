@@ -45,6 +45,7 @@
   - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
   - [よけとる改仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 - 習作ゲーム「よけとる」の素材集めとモック画面作成
+  - [作成手順のメモ](https://docs.google.com/document/d/1wtDhMQ_0JEuKWbC8lgxLoXzUCZi540tF92oHIBcmFxo/)
   - GitHubにコミットして、privateのままパブリッシュ
   - 自力で作っても、アセットストアから見つけても、Kenneyなどのフリーアセットのサイトから見つけてもよい
   - 入手元のURLを記録しておくこと (自作データなら不要)
