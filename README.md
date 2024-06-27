@@ -34,6 +34,7 @@
 
 - プログラミング班：Unityでよけとるモック作成
   - [Unityのキャラクター用のゲームオブジェクトの構築](https://docs.google.com/document/d/1wsdsAdmLVoHagV71I1wJHpxXExgws9N6eZL54hWnLr8/)
+    - [キャラ作成の作業メモ](https://docs.google.com/document/d/19vK5O5WOXNgs9MqsggJ9h80lp9jvd-NKs1KSADd6pXQ/)
   - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
