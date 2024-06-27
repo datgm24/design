@@ -42,6 +42,10 @@
   - [TextMesh Pro向け ASCIIコード+JIS第1水準の文字](https://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
 - ゲーム制作班：選んだゲームエンジンで、作りたいゲームの画面つくり
 
+### 次週までに
+- [必要な素材のリスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)にある、BGMと効果音を見つけて、ダウンロードしておく
+  - 効果音は効果音ラボや魔王魂がおすすめ
+
 ### 話題
 - [小山順一朗. ヒット作品のつくり方](https://www.docswell.com/s/gamemakers/5DEL8W-GameMakersScramble2024_ArchivesA5#p1)
 
