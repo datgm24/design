@@ -44,7 +44,7 @@
 
 ### 7/4までに
 - [必要な素材のリスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)にある、BGMと効果音を見つけて、ダウンロードしておく
-  - 効果音は効果音ラボや魔王魂がおすすめ
+  - 効果音は効果音ラボや魔王魂、Kenney.nl がおすすめ
 
 ### 話題
 - [小山順一朗. ヒット作品のつくり方](https://www.docswell.com/s/gamemakers/5DEL8W-GameMakersScramble2024_ArchivesA5#p1)
