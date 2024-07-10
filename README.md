@@ -29,6 +29,9 @@
 
 ## 12回目(7/11)
 
+### 話題
+- [文化庁. 著作権テキスト](https://www.bunka.go.jp/seisaku/chosakuken/textbook/pdf/94081601_01.pdf)
+
 ### 予定
 - プログラミング班：BGMと効果音。時間があれば、ポストプロセス
   - [オーディオ再生](http://am1tanaka.hatenablog.com/entry/2019/06/11/230541)
