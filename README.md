@@ -31,6 +31,15 @@
 
 ### 予定
 - プログラミング班：BGMと効果音。時間があれば、ポストプロセス
+  - [オーディオ再生](http://am1tanaka.hatenablog.com/entry/2019/06/11/230541)
+    - TinyAudioオブジェクトをプレハブ化
+    - ProjectウィンドウのYoketoruフォルダーの中に新しいフォルダーを作成して、名前をPrefabsにする
+    - HierarchyウィンドウのTinyAudioをドラッグして、ProjectウィンドウのPrefabsフォルダーにドロップ
+    - タイトルとゲームシーンにTinyAudioオブジェクトを配置してBGMを設定
+  - [ポストプロセス](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/edit#heading=h.wxu06ozcclaa)
+  - [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/edit#heading=h.qx4tfdtph9h)
+  - [シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/edit#heading=h.mjatj7c2eklf)
+
 - ゲーム制作班：選んだゲームエンジンで、作りたいゲームの画面つくり
 
 ## 9, 10, 11回目(6/20, 27, 7/4)
