@@ -34,6 +34,7 @@
 
 ### 予定
 - プログラミング班：BGMと効果音。時間があれば、ポストプロセス
+  - 音源がない人は、`Z:\2024\student\gp1\yoketoru_audio_clips`を開いて、Kenneyフォルダーを、UnityのProjectウィンドウのAssetsフォルダーにドラッグ＆ドロップ
   - [オーディオ再生](http://am1tanaka.hatenablog.com/entry/2019/06/11/230541)
     - TinyAudioオブジェクトをプレハブ化
     - ProjectウィンドウのYoketoruフォルダーの中に新しいフォルダーを作成して、名前をPrefabsにする
