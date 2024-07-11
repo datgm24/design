@@ -40,6 +40,7 @@
     - ProjectウィンドウのYoketoruフォルダーの中に新しいフォルダーを作成して、名前をPrefabsにする
     - HierarchyウィンドウのTinyAudioをドラッグして、ProjectウィンドウのPrefabsフォルダーにドロップ
     - タイトルとゲームシーンにTinyAudioオブジェクトを配置してBGMを設定
+    - サウンドミドルウェア [CRI. ADX LE](https://game.criware.jp/products/adx-le/)
   - [ポストプロセス](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/edit#heading=h.wxu06ozcclaa)
   - [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/edit#heading=h.qx4tfdtph9h)
   - [シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/edit#heading=h.mjatj7c2eklf)
