@@ -27,12 +27,68 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
+## 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
+以下のうち１つを選んで、夏休み中に完成させて、指定のものを提出する。
+
+- 選択肢１　Unityの教科書の改造
+  - 4章以降のサンプルを完成させる
+  - プログラムの変更が伴うアレンジを１つ以上考えて、アレンジ版を作成する
+  - OK例　新しいアイテムを追加 / 新しい敵を追加 / 新しい操作を追加
+  - NG例　絵の差し替えのみ / アニメの変更のみ
+- 選択肢２　オリジナルゲームを完成させる
+  - 自分で考えた企画を完成させる
+  - 使用するツールは学校で使えるものなら自由(Unity, UE, GDevelop, ティラノスクリプト, Light.vnなど)
+- 選択肢３　ネット上で見つけたチュートリアルの改造
+  - ネット上でブログなどで紹介されている作品を完成させる
+  - 選択肢1と同じくプログラムの改変を伴う改造をする
+
+### 提出物
+
+- プロジェクト一式
+- 提出物についてのドキュメント(Googleドキュメントで作成)
+  - ゲーム概要、操作説明、ルール説明
+  - ゲーム内容がわかるスクリーンショット1枚
+  - 参考にしたブログや書籍のリスト
+  - 仕様アセットリスト
+- 実行ファイル(ビルドできたら)
+
+
+## 13回目(7/18)
+
+### 話題
+- [1週間ゲームジャム 8/12から](https://unityroom.com/unity1weeks)
+
+
+### 予定
+
+- プログラミング班：ポストプロセス続き
+  - [ポストプロセス](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
+  -  シーンの遷移から
+    - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+    - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/edit#heading=h.mjatj7c2eklf)
+    - [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/edit#heading=h.x9yaoexbl5qg)
+    - [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/edit#heading=h.25sv726tc2lz)
+    - [04内積の利用](https://docs.google.com/document/d/1xJZQYe3iTmJrMh4GcMJcK34LwG7NU9IXZJS2eH9_E9I/edit#heading=h.25sv726tc2lz)
+- ゲーム制作班 進捗共有
+  - 自力で使えそうなゲーム制作ツールを調べて選ぶ。管理者権限が不要なものであること。以下、候補例
+    - [ティラノビルダー](https://b.tyrano.jp/)
+    - [ティラノスクリプト](https://tyrano.jp/)
+    - [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
+    - [GDevelop](https://gdevelop.io/ja-jp)
+    - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
+    - [Mind Render](https://mindrender.jp/)
+    - [RAPTEX](https://raptex.jp/)
+  - 英語は、ブラウザーの翻訳機能や、スマホのGoogleアプリの翻訳機能を使えば読める。訳がわからない場合は、[DeepL](https://www.deepl.com/ja/translator)を試す
+  - 今週、来週でツールの選択と使い方の調査、制作するゲーム内容の検討
+  - **学習のための基礎力を身に着けることが目的なので、成果が出なくても構わない**。自分のペースで、ドキュメントを探したり、読んだり、試したりすることが大切。1年間を費やすぐらいの気持ちで、じっくりと腰を据えて取り組んでほしい
+
+
 ## 12回目(7/11)
 
 ### 話題
 - [文化庁. 著作権テキスト](https://www.bunka.go.jp/seisaku/chosakuken/textbook/pdf/94081601_01.pdf)
 
-### 予定
+### 内容
 - プログラミング班：BGMと効果音。時間があれば、ポストプロセス
   - 音源がない人は、`Z:\2024\student\gp1\yoketoru_audio_clips`を開いて、Kenneyフォルダーを、UnityのProjectウィンドウのAssetsフォルダーにドラッグ＆ドロップ
   - [オーディオ再生](http://am1tanaka.hatenablog.com/entry/2019/06/11/230541)
