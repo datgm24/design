@@ -40,9 +40,10 @@
     - 真夜中の教室
       - スサ、ナカヤマ
   - 企画のブラッシュアップの方針の検討
+    - [DATフェスタに向けた講評と質疑応答](https://docs.google.com/document/d/18KpJN91nFw9pWBp1hH40SkOtkmBEzzMqoF1vtaiVtKc/)
     - Googleドキュメントを作成して、チームメンバーで共有する
-    - 案を書き出す
-    - 必要な作業を書き出す
+      - 案を書き出す
+      - 必要な作業を書き出す
 
 
 ### 提出物
