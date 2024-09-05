@@ -31,6 +31,7 @@
 
 ### 予定
 
+- [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
 - DATフェスタ企画の検討
   - 以下の企画をベースに検討を進める
     - SPACE SHOOTINGと水中探索
