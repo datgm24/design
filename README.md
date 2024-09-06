@@ -27,9 +27,30 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
-## 15回目(9/5)
+
+## 後期1回目
 
 ### 予定
+
+- 進捗確認
+  - SPACE SHOOTINGと水中探索
+    - サカモト、サクマ、ナガサキ
+  - 横スクロール型探索ゲーム：使用ツール、企画内容とも変更してOK
+    - グエン、トリン、ファン
+  - 真夜中の教室：使用ツール、企画内容とも変更してOK
+    - スサ、ナカヤマ
+- 企画のブラッシュアップの方針の検討
+  - Googleドキュメントを作成して、チームメンバーで共有する
+  - 案を書き出す
+  - 必要な作業を書き出す
+- [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/) 敵A, B, Cの検討から
+- [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
+
+---
+
+## 15回目(9/5)
+
+### 内容
 
 - [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
 - DATフェスタ企画の検討
