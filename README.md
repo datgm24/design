@@ -47,6 +47,7 @@
   - 案を書き出す
   - 必要な作業を書き出す
 - 出せそうなものは、ゲームクリエイター甲子園に応募する
+  - [応募要項](https://game.creators-guild.com/gck2024-terms/)
 - [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/) 敵A, B, Cの検討から
 - [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
 
