@@ -33,6 +33,13 @@
 - [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)
   - GCG公式LINEの登録が必須
 
+### 資料
+- [仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/)
+  - Googleにログインしてから、開く
+  - ファイルメニューから、コピーを作成
+  - 共有をクリックして、チームメンバーを追加
+  - 応募要項にある項目を、基本情報に列挙して、書き込む
+
 ### 予定
 
 - 進捗確認
