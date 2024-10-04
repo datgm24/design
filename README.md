@@ -36,11 +36,9 @@
 ### 資料
 - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/)
   - Googleにログインしてから、開く
-  - ファイルメニューから、コピーを作成
-  - 共有をクリックして、チームメンバーを追加
   - 応募要項にある項目を、基本情報に列挙して、書き込む
 
-### 予定
+### 内容
 
 - 進捗確認
   - SPACE SHOOTINGと水中探索
