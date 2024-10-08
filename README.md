@@ -34,10 +34,13 @@
 
 ### 予定
 
-- [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)
+- [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)へのエントリー
   - GCG公式LINEの登録が必須
-- [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/) 敵A, B, Cの検討から
+- [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
+  - 敵出現の管理方針を決める
+    - 参考 [シューティングゲームの敵の出現方法](https://docs.google.com/document/d/1jBvajLqiV6JA7mU6YXgmpmEPSDo2Q36jGUE44wp6dvg/)
 - [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
+  - 提出を進める
 
 ## 後期1回目(10/3)
 
