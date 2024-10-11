@@ -27,12 +27,24 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
+## 後期3回目(10/17)
+
+### 予定
+
+- [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)の状況確認
+  - [登録手順](https://docs.google.com/document/d/1mqx3RFpKN40ldGgWfrTXNGkd4LFrMDG3gnXZZ9GjogM/)
+- [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
+  - 進捗確認
+- [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
+  - 提出を進める
+- その他、開発を進める
+
 ## 後期2回目(10/10)
 
 - 交流会に向けて、夏休みの課題をA602でも実行できるようにビルドなどして、準備する
   - `X:\2024年\ゲーム学科\gp1\gp1夏休み`フォルダーにコピーしてあるので、更新していたら、上書きコピーする
 
-### 予定
+### 内容
 
 - [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)へのエントリー
   - GCG公式LINEの登録が必須
