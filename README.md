@@ -33,7 +33,7 @@
 
 - [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)の状況確認
   - [登録手順](https://docs.google.com/document/d/1mqx3RFpKN40ldGgWfrTXNGkd4LFrMDG3gnXZZ9GjogM/)
-- [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
+- [Galaxy STELLA(仮)作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
   - 進捗確認
 - [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
   - 提出を進める
