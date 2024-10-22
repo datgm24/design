@@ -27,9 +27,37 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
-## 後期3回目(10/17)
+## 後期4回目(10/24)
 
 ### 予定
+
+- [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)の状況確認
+  - [登録手順](https://docs.google.com/document/d/1mqx3RFpKN40ldGgWfrTXNGkd4LFrMDG3gnXZZ9GjogM/)
+- [Galaxy STELLA(仮)作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
+  - 進捗確認
+- [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
+  - 提出を進める
+- その他、開発を進める
+
+### インストラクションカードの作成
+- [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
+  - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
+  - A4カラー or A3カラーの横 1ページ
+  - アクリルスタンドで立てる(A4縦)か、モニターに貼る(A3横)
+  - ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
+  - PowerPointを使って、A4の縦方向に設定する例。それぞれ、作りたいカードにあわせて読み替える
+    - デザインタブに切り替え
+    - スライドのサイズから、ユーザー設定のスライドのサイズを選択
+    - スライドのサイズ指定をA4、印刷の向きをスライドの縦を選択してOK
+- 実行ファイルをビルドして、以下の要領でコピーしておく
+  - `X:\2024年\ゲーム学科\gp1\DATフェスタ実行ファイル` の中に作品名のフォルダーを作成して、その中にビルドした実行ファイルをコピーする
+  - ビルドができない場合は、プロジェクトフォルダーまるごとでよい
+  - コピーしたものを、ほかのPCから実行できるか確認する
+
+
+## 後期3回目(10/17)
+
+### 内容
 
 - [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)の状況確認
   - [登録手順](https://docs.google.com/document/d/1mqx3RFpKN40ldGgWfrTXNGkd4LFrMDG3gnXZZ9GjogM/)
