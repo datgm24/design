@@ -27,14 +27,14 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
-## 後期4回目(10/24)
+## 後期5回目(10/31)
 
 ### 予定
 
 - [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)の状況確認
   - [登録手順](https://docs.google.com/document/d/1mqx3RFpKN40ldGgWfrTXNGkd4LFrMDG3gnXZZ9GjogM/)
 - [Galaxy STELLA(仮)作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
-  - 進捗確認
+  - 統合
 - [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
   - 提出を進める
 - その他、開発を進める
@@ -53,6 +53,20 @@
   - `X:\2024年\ゲーム学科\gp1\DATフェスタ実行ファイル` の中に作品名のフォルダーを作成して、その中にビルドした実行ファイルをコピーする
   - ビルドができない場合は、プロジェクトフォルダーまるごとでよい
   - コピーしたものを、ほかのPCから実行できるか確認する
+
+
+
+## 後期4回目(10/24)
+
+### 内容
+
+- [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)の状況確認
+  - [登録手順](https://docs.google.com/document/d/1mqx3RFpKN40ldGgWfrTXNGkd4LFrMDG3gnXZZ9GjogM/)
+- [Galaxy STELLA(仮)作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
+  - 進捗確認
+- [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
+  - 提出を進める
+- その他、開発を進める
 
 
 ## 後期3回目(10/17)
