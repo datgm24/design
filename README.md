@@ -27,9 +27,16 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
-## 後期5回目(10/31)
+## 後期6回目(11/14)
 
 ### 予定
+
+- 展示成果の共有と講評
+- 改善項目
+
+## 後期5回目(10/31)
+
+### 内容
 
 - [ゲームクリエイター甲子園 2024](https://game.creators-guild.com/gck/)の状況確認
   - [登録手順](https://docs.google.com/document/d/1mqx3RFpKN40ldGgWfrTXNGkd4LFrMDG3gnXZZ9GjogM/)
