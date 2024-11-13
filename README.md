@@ -42,7 +42,7 @@
 
 - 展示成果の共有と講評
   - DATフェスタに展示した実行ファイルを`X:\2024年\ゲーム学科\gp1\DATフェスタ実行ファイル`にコピーして提出。すでに展示版になっていたらこの作業は不要
-- 改善項目
+  - [DATフェスタ講評](https://docs.google.com/document/d/1f5v4u4e2Vi1_a1rEebjtZ2TsenOlp-f_ZvbS3nJ1nus/)
 
 ## 後期5回目(10/31)
 
