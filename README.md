@@ -29,6 +29,11 @@
 
 ## 後期6回目(11/14)
 
+### 成果共有
+- [技術書典17. Godot Engine研究ノート２](https://techbookfest.org/product/4TTGRqssf60xCYKEEmNrQp?productVariantID=esuWeMGXWGvWrMhCyYw9TL)
+- [Minecart Rails](https://am1tanaka.itch.io/minecart-rails)
+- [STORM OF BALLS](https://am1tanaka.itch.io/storm-of-balls)
+
 ### 今後の1年生の進行
 - ポートフォリオの作成
 - DATフェスタのデータを取りまとめて、可能な範囲でWeb公開
