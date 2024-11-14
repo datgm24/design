@@ -43,6 +43,14 @@
 - 展示成果の共有と講評
   - DATフェスタに展示した実行ファイルを`X:\2024年\ゲーム学科\gp1\DATフェスタ実行ファイル`にコピーして提出。すでに展示版になっていたらこの作業は不要
   - [DATフェスタ講評](https://docs.google.com/document/d/1f5v4u4e2Vi1_a1rEebjtZ2TsenOlp-f_ZvbS3nJ1nus/)
+- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - ポートフォリオとは何か、作る際に最初にやること、などを確認
+    - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作 ＃01:Webページを作ろう](https://paiza.jp/works/career/primer/career2/8010)
+    - [ゲームクリエイターズギルド. ポートフォリオは自分ブランディング！見せ方を設計しよう【ゲーム業界就活】](https://game.creators-guild.com/g4c/shukatsu-20210215)
+  - ポートフォリオの例
+    - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
+    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+    - [2023年度の作例](https://github.com/datgm23/portfolio)
 - DATフェスタ版のビルドデータ、インストカードのデータ、プロジェクトの提出
   - Unity
     - インストカードのデータを、Unityのプロジェクトフォルダーにコピーする
