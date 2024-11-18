@@ -27,18 +27,31 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
-## 後期6回目(11/14)
+## 後期7回目(11/21)
+
+### 話題
+- [CyberAgent. 3days ゲーム開発型インターンシップ 「プロトスプリントリーグ」](https://cyberagent.connpass.com/event/336618/)
 
 ### 成果共有
 - [技術書典17. Godot Engine研究ノート２](https://techbookfest.org/product/4TTGRqssf60xCYKEEmNrQp?productVariantID=esuWeMGXWGvWrMhCyYw9TL)
 - [Minecart Rails](https://am1tanaka.itch.io/minecart-rails)
 - [STORM OF BALLS](https://am1tanaka.itch.io/storm-of-balls)
 
+### 予定
+- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - ポートフォリオの例
+    - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
+    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+    - [2023年度の作例](https://github.com/datgm23/portfolio)
+
+## 後期6回目(11/14)
+
+
 ### 今後の1年生の進行
 - ポートフォリオの作成
 - DATフェスタのデータを取りまとめて、可能な範囲でWeb公開
 
-### 予定
+### 内容
 
 - 展示成果の共有と講評
   - DATフェスタに展示した実行ファイルを`X:\2024年\ゲーム学科\gp1\DATフェスタ実行ファイル`にコピーして提出。すでに展示版になっていたらこの作業は不要
