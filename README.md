@@ -27,6 +27,20 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
+## 後期8回目(11/28)
+
+### 話題
+
+- [Godot Meetup Tokyo Vol.3](https://godot-jp.connpass.com/event/332052/)
+
+### 予定
+- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - ポートフォリオの例
+    - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
+    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+    - [2023年度の作例](https://datgm23.github.io/portfolio)
+
+
 ## 後期7回目(11/21)
 
 ### 話題
@@ -37,7 +51,7 @@
 - [Minecart Rails](https://am1tanaka.itch.io/minecart-rails)
 - [STORM OF BALLS](https://am1tanaka.itch.io/storm-of-balls)
 
-### 予定
+### 内容
 - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
   - ポートフォリオの例
     - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
