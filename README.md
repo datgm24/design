@@ -40,7 +40,7 @@
     - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
     - [2024年度の作例](https://datgm24.github.io/portfolio/)
     - [2023年度の作例](https://datgm23.github.io/portfolio)
-
+- [よけとる改]()
 
 ## 後期7回目(11/21)
 
