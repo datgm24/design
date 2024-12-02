@@ -27,13 +27,17 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
+## 後期9回目(12/5)
+
+- [よけとる改](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/) 仕様作成
+
 ## 後期8回目(11/28)
 
 ### 話題
 
 - [Godot Meetup Tokyo Vol.3](https://godot-jp.connpass.com/event/332052/)
 
-### 予定
+### 内容
 - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
   - ポートフォリオの例
     - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
