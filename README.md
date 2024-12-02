@@ -29,7 +29,10 @@
 
 ## 後期9回目(12/5)
 
-- [よけとる改](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/) 仕様作成
+- よけとる改の仕様作成とモック作成
+  - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
+  - [よけとる改-仕様書](https://docs.google.com/spreadsheets/d/1ZA2auT3AOSZdYPidrWkrzl3TqlmYyR1VFGqBaFEAd5Y/)
+  - [作成手順メモ](https://docs.google.com/document/d/1wkTPBUWFmOAoV7o7cORzo4a80zfpy12HWApqGBCs6gc/)
 
 ## 後期8回目(11/28)
 
