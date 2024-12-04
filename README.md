@@ -29,6 +29,12 @@
 
 ## 後期9回目(12/5)
 
+### 話題
+
+- [Godot Engineアドベントカレンダー2024. 4日目ブログを公開](https://am1tanaka.hatenablog.com/entry/godot-adcale2024-12-04)
+
+### 予定
+
 - [ゲーム開発の流れ](https://docs.google.com/document/d/1wkTPBUWFmOAoV7o7cORzo4a80zfpy12HWApqGBCs6gc/)
 - よけとる改の仕様作成とモック作成
   - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
