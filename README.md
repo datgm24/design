@@ -31,6 +31,7 @@
 
 ### 話題
 
+- [グローバルゲームジャム](https://ggj.igda.jp/)
 - [Godot Engineアドベントカレンダー2024. 4日目ブログを公開](https://am1tanaka.hatenablog.com/entry/godot-adcale2024-12-04)
 
 ### 予定
