@@ -27,6 +27,20 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
+## 後期10回目(12/11)
+
+### 話題
+
+- [CAPCOM. 自社開発エンジン「RE ENGINE」を用いたゲーム制作コンペティションを初開催！](https://www.capcom.co.jp/ir/news/html/241209.html)
+
+### 予定
+
+- よけとる改の仕様作成とモック作成
+  - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
+  - [よけとる改-仕様書](https://docs.google.com/spreadsheets/d/1ZA2auT3AOSZdYPidrWkrzl3TqlmYyR1VFGqBaFEAd5Y/)
+  - [作成手順メモ](https://docs.google.com/document/d/1ar_jQM0rF5j6vMPtDx9rnRNVCLB7ZJ03D98rlrKEMAY/)
+
+
 ## 後期9回目(12/5)
 
 ### 話題
@@ -35,7 +49,7 @@
 - [グローバルゲームジャム](https://ggj.igda.jp/)
 - [Godot Engineアドベントカレンダー2024. 4日目ブログを公開](https://am1tanaka.hatenablog.com/entry/godot-adcale2024-12-04)
 
-### 予定
+### 内容
 
 - [ゲーム開発の流れ](https://docs.google.com/document/d/1wkTPBUWFmOAoV7o7cORzo4a80zfpy12HWApqGBCs6gc/)
 - よけとる改の仕様作成とモック作成
