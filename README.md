@@ -32,6 +32,8 @@
 ### 話題
 
 - [CAPCOM. 自社開発エンジン「RE ENGINE」を用いたゲーム制作コンペティションを初開催！](https://www.capcom.co.jp/ir/news/html/241209.html)
+- [トップゲームクリエイターズ・アカデミー](https://tgca.jp/)
+  - [トップゲームクリエイターズ・アカデミー. インタビュー記事](https://gamemakers.jp/article/2024_12_11_87812/)
 
 ### 予定
 
