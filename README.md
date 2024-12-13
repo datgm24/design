@@ -32,6 +32,7 @@
 ### 予定
 
 - 取り組んでいる作業の共有、質疑応答
+- 1週間ゲームジャムに向けた企画の検討
 - よけとる改の仕様作成とモック作成
   - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
   - [よけとる改-仕様書](https://docs.google.com/spreadsheets/d/1ZA2auT3AOSZdYPidrWkrzl3TqlmYyR1VFGqBaFEAd5Y/)
