@@ -27,6 +27,16 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
+## 後期11回目(12/19)
+
+### 予定
+
+- 取り組んでいる作業の共有、質疑応答
+- よけとる改の仕様作成とモック作成
+  - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
+  - [よけとる改-仕様書](https://docs.google.com/spreadsheets/d/1ZA2auT3AOSZdYPidrWkrzl3TqlmYyR1VFGqBaFEAd5Y/)
+  - [作成手順メモ](https://docs.google.com/document/d/1ar_jQM0rF5j6vMPtDx9rnRNVCLB7ZJ03D98rlrKEMAY/)
+
 ## 後期10回目(12/12)
 
 ### 話題
@@ -36,7 +46,7 @@
   - [トップゲームクリエイターズ・アカデミー. インタビュー記事](https://gamemakers.jp/article/2024_12_11_87812/)
 - [Unityアドベントカレンダー2024. 12日目ブログを公開](https://am1tanaka.hatenablog.com/entry/unity-adcale24-awaitable)
 
-### 予定
+### 内容
 
 - よけとる改の仕様作成とモック作成
   - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
