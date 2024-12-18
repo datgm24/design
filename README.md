@@ -29,6 +29,10 @@
 
 ## 後期11回目(12/19)
 
+### 話題
+
+- GitHub Copilot freeが開始
+
 ### 予定
 
 - [よけとる2024改 リポジトリー](https://github.com/datgm24/Yoketoru2024)
