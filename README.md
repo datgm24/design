@@ -32,6 +32,7 @@
 ### 話題
 
 - GitHub Copilot freeが開始
+  - [GitHub Copilotを試す](https://github.com/datgm24/design/blob/main/try-github-copilot.md)
 
 ### 予定
 
