@@ -20,6 +20,7 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
+- [Game Maker](https://gamemaker.io/en)
 
 <!--
 - 1週間ゲームジャムや最初の企画
@@ -33,6 +34,7 @@
 
 - GitHub Copilot freeが開始
   - [GitHub Copilotを試す](https://github.com/datgm24/design/blob/main/try-github-copilot.md)
+- [Game Maker](https://gamemaker.io/en)
 
 ### 予定
 
