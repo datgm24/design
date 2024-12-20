@@ -28,6 +28,16 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
+## 後期12回目(1/9)
+
+### 予定
+
+- 正月休みの成果の共有
+  - 1週間ゲームジャムの参加報告
+  - Unity以外のゲームツールを使った開発方向
+  - 卒業制作に向けた企画案の発表
+- 共有された作品の企画をもとに、卒業制作の企画構想を検討
+
 ## 後期11回目(12/19)
 
 ### 話題
@@ -36,7 +46,7 @@
   - [GitHub Copilotを試す](https://github.com/datgm24/design/blob/main/try-github-copilot.md)
 - [Game Maker](https://gamemaker.io/en)
 
-### 予定
+### 内容
 
 - [よけとる2024改 リポジトリー](https://github.com/datgm24/Yoketoru2024)
 - 取り組んでいる作業の共有、質疑応答
