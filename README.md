@@ -34,18 +34,17 @@
 
 - 正月休みの成果の共有
   - 1週間ゲームジャムの参加報告
-  - Unity以外のゲームツールを使った開発方向
-  - 卒業制作に向けた企画の検討と共有
-    - [企画構想書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)を開く
-    - ファイルメニューから コピーを作成 を選択
-    - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
-    - 右上の共有をクリックして、制限付きをクリック＞リンクを知っている全員に変更
-    - リンクをコピー＞完了
-    - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)にURLを貼り付けて共有
-    - 以上でコピーしたドキュメントの各項目を記入していく
-      - 基本情報のうち、決まっていることを書く
-      - 企画の狙いを書く
-      - 思いついたところから、残りの項目を書く
+- 卒業制作に向けた企画の検討と共有
+  - [企画構想書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)を開く
+  - ファイルメニューから コピーを作成 を選択
+  - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
+  - 右上の共有をクリックして、制限付きをクリック＞リンクを知っている全員に変更
+  - リンクをコピー＞完了
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)にURLを貼り付けて共有
+  - 以上でコピーしたドキュメントの各項目を記入していく
+    - 基本情報のうち、決まっていることを書く
+    - 企画の狙いを書く
+    - 思いついたところから、残りの項目を書く
 - 共有された作品の企画をもとに、卒業制作の企画構想を検討
 
 ## 後期11回目(12/19)
