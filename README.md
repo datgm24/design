@@ -43,6 +43,7 @@
     - ゲームに表示するべきUIを省略せずに書く
   - 面白い具体的な場面の例
   - ゲームの全体の流れや要素を挙げる
+  - [企画構想の講評メモ](https://docs.google.com/document/d/1iUvW0FbGY2thLP9zMws8UaGYsJNusdRTs_JYcgn0zpY/)
 - ChatGPTで、企画検討
 
 ## 後期12回目(1/9)
