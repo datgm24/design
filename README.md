@@ -28,14 +28,33 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
+## 後期14回目(1/23)
+
+### 予定
+
+- ポートフォリオ締め切り
+  - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - ポートフォリオの例
+    - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
+    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+    - [2024年度の作例](https://datgm24.github.io/portfolio/)
+    - [2023年度の作例](https://datgm23.github.io/portfolio)
+- 企画構想書の進捗の共有
+  - 画面のイメージが伝わるようにする
+    - 自分でサムネイルを描いてもいいし、参考にしたいゲームがあれば、そのゲームのスクリーンショットや動画、公式WebサイトのURL
+    - ゲームに表示するべきUIを省略せずに書く
+  - 面白い具体的な場面の例
+  - ゲームの全体の流れや要素を挙げる
+  - [企画構想の講評メモ](https://docs.google.com/document/d/1iUvW0FbGY2thLP9zMws8UaGYsJNusdRTs_JYcgn0zpY/)
+
+
 ## 後期13回目(1/16)
 
 ### 話題
 
 - [Ryo Shimizu. 最近、AIが長年の悩みを次々と解決してしまう](https://wirelesswire.jp/2025/01/87946/)
 
-
-### 予定
+### 内容
 
 - 企画構想書の進捗の共有
   - 画面のイメージが伝わるようにする
