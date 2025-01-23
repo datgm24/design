@@ -28,6 +28,20 @@
 - 渡邉 大誠. モチ上ガールが出来るまで https://learning.unity3d.jp/2538/
 -->
 
+## 後期15回目(1/30)
+
+### 予定
+
+- フォルダー整理
+- ポートフォリオや企画構想の進捗の共有
+  - [企画構想の講評メモ](https://docs.google.com/document/d/1iUvW0FbGY2thLP9zMws8UaGYsJNusdRTs_JYcgn0zpY/)
+  - 画面のイメージが伝わるようにする
+    - 自分でサムネイルを描いてもいいし、参考にしたいゲームがあれば、そのゲームのスクリーンショットや動画、公式WebサイトのURL
+    - ゲームに表示するべきUIを省略せずに書く
+  - 面白い具体的な場面の例
+  - ゲームの全体の流れや要素を挙げる
+
+
 ## 後期14回目(1/23)
 
 ### 話題
@@ -35,7 +49,7 @@
 - [ゲームクリエイター甲子園 2024 発表授賞式＆作品展示会のポスト](images/250122/index.md)
 - [Project Gold: Storyboarding in Blender](https://studio.blender.org/blog/project-gold-storyboarding-in-blender/)
 
-### 予定
+### 内容
 
 - ポートフォリオ締め切り
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
@@ -46,13 +60,6 @@
     - [2023年度の作例](https://datgm23.github.io/portfolio)
   - 開発中のものは、開発中と記載して、完成見込みの時期を書いておく
   - 企画と仕様書があれば、リンクを公開
-- 企画構想書の進捗の共有
-  - 画面のイメージが伝わるようにする
-    - 自分でサムネイルを描いてもいいし、参考にしたいゲームがあれば、そのゲームのスクリーンショットや動画、公式WebサイトのURL
-    - ゲームに表示するべきUIを省略せずに書く
-  - 面白い具体的な場面の例
-  - ゲームの全体の流れや要素を挙げる
-  - [企画構想の講評メモ](https://docs.google.com/document/d/1iUvW0FbGY2thLP9zMws8UaGYsJNusdRTs_JYcgn0zpY/)
 
 
 ## 後期13回目(1/16)
