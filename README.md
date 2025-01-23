@@ -33,6 +33,7 @@
 ### 話題
 
 - [ゲームクリエイター甲子園 2024 発表授賞式＆作品展示会のポスト](images/250122/index.md)
+- [Project Gold: Storyboarding in Blender](https://studio.blender.org/blog/project-gold-storyboarding-in-blender/)
 
 ### 予定
 
