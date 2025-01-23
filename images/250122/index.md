@@ -7,4 +7,4 @@
 
 https://x.com/GC_koushien/status/1882037259194847726 ‚æ‚è
 
-[–ß‚é](../README.md)
+[–ß‚é](../../README.md)
