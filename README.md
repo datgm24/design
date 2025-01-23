@@ -43,6 +43,8 @@
     - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
     - [2024年度の作例](https://datgm24.github.io/portfolio/)
     - [2023年度の作例](https://datgm23.github.io/portfolio)
+  - 開発中のものは、開発中と記載して、完成見込みの時期を書いておく
+  - 企画と仕様書があれば、リンクを公開
 - 企画構想書の進捗の共有
   - 画面のイメージが伝わるようにする
     - 自分でサムネイルを描いてもいいし、参考にしたいゲームがあれば、そのゲームのスクリーンショットや動画、公式WebサイトのURL
