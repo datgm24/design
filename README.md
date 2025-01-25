@@ -30,6 +30,12 @@
 
 ## 後期15回目(1/30)
 
+### 話題
+
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+- [ゲームクリエイターズギルド](https://gc-guild.net/)
+- [Brackeys Game Jam 2025.1](https://itch.io/jam/brackeys-13)
+
 ### 予定
 
 - ポートフォリオや企画構想、正月休み開発の成果共有
